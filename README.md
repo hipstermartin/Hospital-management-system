@@ -10,8 +10,8 @@ The features of the project are:
 
 ### Technologies Used
 
-#### TOOLS : NetBeans
-#### DATABSE : XAMPP server (MySql)
+#### Tools : NetBeans
+#### DataBase : XAMPP server (MySql)
 
 ## That's all folks!
 Feel free to mail me for any doubts/query 

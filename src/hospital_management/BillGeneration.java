@@ -20,7 +20,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Sumit
+ * @author Yalam
  */
 public class BillGeneration extends javax.swing.JFrame {
 
@@ -613,7 +613,7 @@ public class BillGeneration extends javax.swing.JFrame {
         else{
         try {
             Class.forName("java.sql.Driver");
-            Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/dbmsproject", "root", "Sumit");
+            Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/hms", "root", "");
             Statement stmt = conn.createStatement();
             String query, a, b;
             int p = Integer.parseInt(jTextField1.getText());

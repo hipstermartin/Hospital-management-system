@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Sumit
+ * @author Yalam
  */
 public class UpdateEmpRecord extends javax.swing.JFrame {
 

@@ -14,7 +14,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Sumit
+ * @author Yalam
  */
 public class SearchPatientDetails extends javax.swing.JFrame {
 

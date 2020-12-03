@@ -15,7 +15,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Sumit
+ * @author Yalam
  */
 public class SearchEmpInfo extends javax.swing.JFrame {
 

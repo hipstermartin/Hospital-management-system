@@ -18,7 +18,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Sumit
+ * @author Yalam
  */
 public class PatientsTests extends javax.swing.JFrame {
 

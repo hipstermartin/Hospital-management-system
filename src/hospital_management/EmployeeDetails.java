@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Sumit
+ * @author Yalam
  */
 public class EmployeeDetails extends javax.swing.JFrame {
 
@@ -530,7 +530,7 @@ int empidcount = 0;
         }
         try {
             Class.forName("java.sql.Driver");
-            Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/dbmsproject", "root", "Sumit");
+            Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/hms", "root", "");
             Statement stmt = conn.createStatement();
             String fn, mn, ln, gn, db, hn, st, ct, sta, mn1, mn2, em, et;
             fn = jTextField1.getText();

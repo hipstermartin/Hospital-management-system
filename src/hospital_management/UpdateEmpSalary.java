@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Sumit
+ * @author Yalam
  */
 public class UpdateEmpSalary extends javax.swing.JFrame {
 

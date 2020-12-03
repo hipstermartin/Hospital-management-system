@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Sumit
+ * @author Yalam
  */
 public class DeleteEmpInfo extends javax.swing.JFrame {
 
@@ -249,7 +249,7 @@ if(ch=='\n')
     String query,a,b;
     try{
     Class.forName("java.sql.Driver");
-    Connection conn=DriverManager.getConnection("jdbc:mysql://localhost:3306/dbmsproject","root","Sumit");
+    Connection conn=DriverManager.getConnection("jdbc:mysql://localhost:3306/hms","root","");
     Statement stmt=conn.createStatement();
     query="Select empid from employee where empid="+emp+";";
     ResultSet rs=stmt.executeQuery(query);

@@ -7,7 +7,7 @@ package hospital_management;
 
 /**
  *
- * @author Sumit
+ * @author Yalam
  */
 public class Hospital_Management {
 

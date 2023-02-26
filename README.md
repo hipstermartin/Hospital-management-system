@@ -1,4 +1,4 @@
-<h1 align="center">Hospital Management System</h1>
+# Hospital Management System
 Hospital Management System is made in Java using Swings and MySQL as backend database and provide various types of operations.
 
 The features of the project are:
@@ -8,10 +8,18 @@ The features of the project are:
 - The System also contains details of all the employees working in the hospital,and also their personal information,the area of their specialisation if the are doctor and also the department head from each department.
 
 
-### Technologies Used
+## Technologies Used
 
-#### Tools : NetBeans
-#### DataBase : XAMPP server (MySql)
+- Tools : NetBeans
+- DataBase : XAMPP server (MySql)
+
+## How to Run
+
+- Install NetBeans IDE.
+- Install XAMPP server and start the Apache and MySQL modules.
+- Import the project into NetBeans.
+- Open the DBConnection.java file and update the MySQL database URL, username, and password.
+- Build and run the project.
 
 ## That's all folks!
 Feel free to mail me for any doubts/query 
